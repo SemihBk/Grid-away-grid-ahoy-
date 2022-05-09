@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1;
+  background-color: #e3edf6;
+}
+
+.sm-lg {
+  width: 7rem;
+  border: 0.5px solid #e9ecef;
+  background-color: #e9ecef;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
